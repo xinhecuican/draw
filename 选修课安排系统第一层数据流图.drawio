@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-27T13:09:33.128Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="JSwZs-2UZ8_15_t6alBE" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-27T13:22:52.706Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="hannL4WWs4KurMOKnhUP" version="15.5.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
         <mxCell id="klcvxJCRlaChU0ZgOOpA-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="klcvxJCRlaChU0ZgOOpA-6" target="klcvxJCRlaChU0ZgOOpA-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="klcvxJCRlaChU0ZgOOpA-42" value="修改课程" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="klcvxJCRlaChU0ZgOOpA-8">
+        <mxCell id="klcvxJCRlaChU0ZgOOpA-42" value="登记/修改课程" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="klcvxJCRlaChU0ZgOOpA-8">
           <mxGeometry x="-0.2067" y="-4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
