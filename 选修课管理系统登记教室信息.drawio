@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-10-27T13:07:03.200Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="rYtYZcbFrKo2tUZjshj0" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-27T13:09:24.180Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="alHN904YeofSZhtT4hOz" version="15.5.9" type="github">
   <diagram id="UZb4PtUwSVx8TrzM3j7W" name="第 1 页">
-    <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1865" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ZepuH7rqCF3ZaQtj_VtV-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZepuH7rqCF3ZaQtj_VtV-1" target="ZepuH7rqCF3ZaQtj_VtV-5">
+        <mxCell id="ZepuH7rqCF3ZaQtj_VtV-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZepuH7rqCF3ZaQtj_VtV-1" target="ZepuH7rqCF3ZaQtj_VtV-18">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="320" y="255" as="targetPoint" />
           </mxGeometry>
@@ -15,7 +15,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZepuH7rqCF3ZaQtj_VtV-1" value="教师" style="html=1;dashed=0;whitespace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="90" y="230" width="100" height="50" as="geometry" />
+          <mxGeometry x="-100" y="230" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZepuH7rqCF3ZaQtj_VtV-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZepuH7rqCF3ZaQtj_VtV-4" target="ZepuH7rqCF3ZaQtj_VtV-5">
           <mxGeometry relative="1" as="geometry" />
@@ -72,6 +72,28 @@
         </mxCell>
         <mxCell id="ZepuH7rqCF3ZaQtj_VtV-15" value="比较差异" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
           <mxGeometry x="510" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZepuH7rqCF3ZaQtj_VtV-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZepuH7rqCF3ZaQtj_VtV-18" target="ZepuH7rqCF3ZaQtj_VtV-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZepuH7rqCF3ZaQtj_VtV-23" value="未开学、课程数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZepuH7rqCF3ZaQtj_VtV-22">
+          <mxGeometry x="-0.36" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZepuH7rqCF3ZaQtj_VtV-18" value="判断是否开学&lt;br&gt;" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="90" y="215" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZepuH7rqCF3ZaQtj_VtV-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZepuH7rqCF3ZaQtj_VtV-19" target="ZepuH7rqCF3ZaQtj_VtV-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZepuH7rqCF3ZaQtj_VtV-21" value="日期" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZepuH7rqCF3ZaQtj_VtV-20">
+          <mxGeometry x="-0.5196" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZepuH7rqCF3ZaQtj_VtV-19" value="时钟" style="html=1;dashed=0;whitespace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="95" y="370" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
