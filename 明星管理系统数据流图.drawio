@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-28T08:54:35.802Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="ALNgAUiOT0cqipiYg3G3" version="15.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-28T09:07:27.352Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="Zv2vLilZPrqGpvCBrlL-" version="15.6.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -100,7 +100,7 @@
             <mxPoint x="290" y="50" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4ofv3-9GoqpGcoyupGX1-46" value="分配课程对应教室" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="4ofv3-9GoqpGcoyupGX1-26" vertex="1" connectable="0">
+        <mxCell id="4ofv3-9GoqpGcoyupGX1-46" value="分配教室请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="4ofv3-9GoqpGcoyupGX1-26" vertex="1" connectable="0">
           <mxGeometry x="0.2848" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
